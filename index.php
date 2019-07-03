@@ -68,6 +68,7 @@
                <i class="fas fa-arrow-down"></i>
                <br>
                <a class="btn btn-border-white show-info animated fadeInUp" role="button" href="location.html">Get Location</a>
+               <a class="btn btn-border-white show-info animated fadeInUp" role="button" href="admin/index.php">Admin</a>
           </div>
      </div>
      <!-- All JavaScript Libraries -->
